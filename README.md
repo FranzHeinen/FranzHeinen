@@ -8,15 +8,12 @@ Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apa
 
 ### 🏢 [Enterprise Management System](https://github.com/FranzHeinen/Enterprise-Management-System)
 Sistema integral de gestión empresarial desarrollado en **.NET 8** con arquitectura de capas y testing automatizado.
-* **Colaborador:** Felipe Williner.
 
 ### 🏋️‍♂️ [Gym Management System](https://github.com/FranzHeinen/Gym-Managment-System)
 Backend de alto rendimiento desarrollado en **Go**, con persistencia en **MongoDB** y despliegue orquestado mediante **Docker**.
-* **Colaboradores:** Tadeo Isaac y Felipe Williner.
 
 ### 🔢 [Análisis Numérico 2025](https://github.com/FranzHeinen/AnalisisNumerico2025)
 Herramienta científica para la resolución de métodos numéricos complejos (raíces, sistemas e integración) desarrollada en **C#**.
-* **Colaborador:** Francisco Ambort.
 
 ---
 
@@ -42,4 +39,4 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 ## 📫 Contacto
 * 📧 **Email:** [fheinen2003@gmail.com](mailto:fheinen2003@gmail.com)
-* 🔗 **LinkedIn:** [Franz Heinen](https://www.linkedin.com/in/franz-heinen-5346b832a)
+* 🔗 [**LinkedIn**](https://www.linkedin.com/in/franz-heinen-5346b832a)
