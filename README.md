@@ -32,11 +32,13 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=FranzHeinen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranzHeinen&show_icons=true&theme=radical" alt="Franz Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
 ---
 
 ## 📫 Contacto
-* 📧 **Email:** [fheinen2003@gmail.com](mailto:fheinen2003@gmail.com)
+* 📧 [**Email**](mailto:fheinen2003@gmail.com)
 * 🔗 [**LinkedIn**](https://www.linkedin.com/in/franz-heinen-5346b832a)
