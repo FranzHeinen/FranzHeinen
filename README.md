@@ -1,6 +1,6 @@
 # ¡Hola! Soy Franz Heinen 👋
 
-Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apasiona el desarrollo de software robusto, la arquitectura de sistemas y la resolución de problemas de ingeniería mediante tecnologías modernas.
+Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apasiona el desarrollo de software, la arquitectura de sistemas y la resolución de problemas de ingeniería mediante tecnologías modernas.
 
 ---
 
