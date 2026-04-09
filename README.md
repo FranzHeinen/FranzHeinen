@@ -1,10 +1,26 @@
-# 👋 Hola, soy Franz
+# ¡Hola! Soy Franz Heinen 👋
 
-🎓 Estudiante de Ingeniería en Informática (UCSE)  
+Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apasiona el desarrollo de software robusto, la arquitectura de sistemas y la resolución de problemas de ingeniería mediante tecnologías modernas.
 
 ---
 
-## 🚀 Tech & Tools
+## 🚀 Proyectos Destacados
+
+### 🏢 [Enterprise Management System](https://github.com/FranzHeinen/Enterprise-Management-System)
+Sistema integral de gestión empresarial desarrollado en **.NET 8** con arquitectura de capas y testing automatizado.
+* **Colaborador:** Felipe Williner.
+
+### 🏋️‍♂️ [Gym Management System](https://github.com/FranzHeinen/Gym-Managment-System)
+Backend de alto rendimiento desarrollado en **Go**, con persistencia en **MongoDB** y despliegue orquestado mediante **Docker**.
+* **Colaboradores:** Tadeo Isaac y Felipe Williner.
+
+### 🔢 [Análisis Numérico 2025](https://github.com/FranzHeinen/AnalisisNumerico2025)
+Herramienta científica para la resolución de métodos numéricos complejos (raíces, sistemas e integración) desarrollada en **C#**.
+* **Colaborador:** Francisco Ambort.
+
+---
+
+## 🛠️ Tech & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,14 +40,6 @@
 
 ---
 
-## 📂 Proyectos Destacados
-- [🖥️ Prog1 - Proyecto Integrador](https://github.com/felipewilliner/2024-Prog1-TI-Williner-Heinen.git) – Trabajo integrador en Java (Programación 1)  
-- [📐 Análisis Numérico](https://github.com/FranciscoAmbort/AnalisiNumerico-2025-Heinen-Ambort.git) – Implementación de métodos numéricos (Bisección, Newton-Raphson, etc.)  
-- [⚙️ Prog2 - Entregable 1](https://github.com/FranzHeinen/Prog2-2025-Entregable1-Heinen-Franz.git) – Administración de feriados con JPA, Hibernate y CriteriaBuilder  
-
----
-
 ## 📫 Contacto
-- ✉️ Email: **fheinen2003@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/franz-heinen-5346b832a)  
-
+- ✉️ Email: **fheinen2003@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/franz-heinen-5346b832a)
