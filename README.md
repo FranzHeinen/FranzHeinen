@@ -41,5 +41,5 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 ---
 
 ## 📫 Contacto
-- ✉️ Email: **fheinen2003@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/franz-heinen-5346b832a)
+* 📧 **Email:** [fheinen2003@gmail.com](mailto:fheinen2003@gmail.com)
+* 🔗 **LinkedIn:** [Franz Heinen](https://www.linkedin.com/in/franz-heinen-5346b832a)
