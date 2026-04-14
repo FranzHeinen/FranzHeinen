@@ -44,9 +44,10 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true" height="150"/>
+  ![Actividad de Franz](https://github-readme-activity-graph.vercel.app/graph?username=FranzHeinen&theme=radical&bg_color=1a1b27&hide_border=true)
 </p>
 
-![Actividad de Franz](https://github-readme-activity-graph.vercel.app/graph?username=FranzHeinen&theme=radical&bg_color=1a1b27&hide_border=true)
+
 
 ---
 
