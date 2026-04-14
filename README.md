@@ -32,9 +32,9 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranzHeinen&show_icons=true&theme=radical" alt="Franz Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical" alt="Top Langs" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true" alt="Franz Stats" height="180" />
+  <img src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
 </p>
 
 ---
