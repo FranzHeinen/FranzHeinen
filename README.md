@@ -33,11 +33,20 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 ---
 
+---
+
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical" alt="Franz Stats" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical" alt="Top Langs" height="150" />
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical" height="200" />
+</p>
+
+---
 
 ---
 
