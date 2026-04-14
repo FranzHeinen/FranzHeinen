@@ -37,14 +37,15 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 ## 📊 Mi Actividad en GitHub
 
-![Actividad de Franz](https://github-readme-activity-graph.vercel.app/graph?username=FranzHeinen&theme=radical&bg_color=1a1b27&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-![Mis Lenguajes](https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true)
-![Racha de Franz](https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true)
+
 ![Actividad de Franz](https://github-readme-activity-graph.vercel.app/graph?username=FranzHeinen&theme=radical&bg_color=1a1b27&hide_border=true)
 
 ---
