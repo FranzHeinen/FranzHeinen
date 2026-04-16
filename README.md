@@ -6,6 +6,9 @@ Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apa
 
 ## 🚀 Proyectos Destacados
 
+### 🦾 [J.A.R.V.I.S. AI](https://github.com/FranzHeinen/Jarvis-AI)
+Asistente virtual modular inspirado en Iron Man. Implementa **activación por doble aplauso**, interfaz holográfica reactiva y razonamiento mediante **Gemini 1.5/2.0 Flash**. Desarrollado con una arquitectura modular para escalabilidad de sistemas.
+
 ### 🏢 [Enterprise Management System](https://github.com/FranzHeinen/Enterprise-Management-System)
 Sistema integral de gestión empresarial desarrollado en **.NET 8** con arquitectura de capas y testing automatizado.
 
@@ -28,6 +31,8 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
@@ -52,6 +57,13 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 
 ---
+
+---
+
+## 🧠 Áreas de Enfoque
+* **AI-Assisted Engineering:** Desarrollo de software optimizado mediante LLMs y herramientas de IA generativa.
+* **Sistemas Modulares:** Diseño de software desacoplado y mantenible.
+* **Procesamiento de Señales:** Integración de hardware y software (activación por voz/acústica).
 
 ---
 
