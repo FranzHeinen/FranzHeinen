@@ -42,13 +42,19 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 ## 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195px" alt="Stats de Franz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true" height="195px" alt="Streak de Franz" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175px" alt="Estadísticas Generales" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true" height="175px" alt="Racha de Commits" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="200px" alt="Lenguajes de Franz" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FranzHeinen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="185px" alt="Lenguajes Destacados" />
 </p>
 
 <p align="center">
