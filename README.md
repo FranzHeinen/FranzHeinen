@@ -50,7 +50,7 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175px" alt="Estadísticas Generales" />
+      <img src="https://github-readme-stats.shion.dev/api?username=FranzHeinen&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="175px" alt="Estadísticas Generales" />
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranzHeinen&theme=radical&hide_border=true" height="175px" alt="Racha de Commits" />
