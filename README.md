@@ -9,6 +9,9 @@ Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apa
 ### 🦾 [J.A.R.V.I.S. AI](https://github.com/FranzHeinen/Jarvis-AI)
 Asistente virtual modular inspirado en Iron Man. Implementa **activación por doble aplauso**, interfaz holográfica reactiva y razonamiento mediante **Gemini 1.5/2.0 Flash**. Desarrollado con una arquitectura modular para escalabilidad de sistemas.
 
+### 📈 [PyFinance-Stack](https://github.com/FranzHeinen/PyFinance-Stack)
+Ecosistema de inteligencia financiera en la nube. Implementa un motor de análisis técnico asincrónico para **BTC/ETH** y cálculo de **Dólar MEP** en tiempo real. Utiliza estrategias de **RSI (1m/1d)** para la detección de señales de acumulación histórica, con alertas automatizadas vía **Telegram Bot** y persistencia en **MongoDB Atlas**.
+
 ### 🏢 [Enterprise Management System](https://github.com/FranzHeinen/Enterprise-Management-System)
 Sistema integral de gestión empresarial desarrollado en **.NET 8** con arquitectura de capas y testing automatizado.
 
@@ -33,6 +36,8 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ---
 
