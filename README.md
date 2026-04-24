@@ -10,7 +10,7 @@ Soy estudiante de 4to año de **Ingeniería en Informática** en la UCSE. Me apa
 Asistente virtual modular inspirado en Iron Man. Implementa **activación por doble aplauso**, interfaz holográfica reactiva y razonamiento mediante **Gemini 1.5/2.0 Flash**. Desarrollado con una arquitectura modular para escalabilidad de sistemas.
 
 ### 📈 [PyFinance-Stack](https://github.com/FranzHeinen/PyFinance-Stack)
-Ecosistema de inteligencia financiera en la nube. Implementa un motor de análisis técnico asincrónico para **BTC/ETH** y cálculo de **Dólar MEP** en tiempo real. Utiliza estrategias de **RSI (1m/1d)** para la detección de señales de acumulación histórica, con alertas automatizadas vía **Telegram Bot** y persistencia en **MongoDB Atlas**.
+Motor de inteligencia financiera asincrónico para el seguimiento de tendencias macro. Implementa cruces de **EMA 21/200** con una profundidad histórica de **730 días** (velas 1h) para garantizar precisión institucional. Incluye detección de señales de acumulación mediante **RSI Diario**, monitoreo de brecha de **Dólar MEP** y alertas push automatizadas vía **Telegram Bot**.
 
 ### 🏢 [Enterprise Management System](https://github.com/FranzHeinen/Enterprise-Management-System)
 Sistema integral de gestión empresarial desarrollado en **.NET 8** con arquitectura de capas y testing automatizado.
@@ -74,7 +74,7 @@ Herramienta científica para la resolución de métodos numéricos complejos (ra
 
 ## 🧠 Áreas de Enfoque
 * **AI-Assisted Engineering:** Desarrollo de software optimizado mediante LLMs y herramientas de IA generativa.
-* **Sistemas Modulares:** Diseño de software desacoplado y mantenible.
+* **Sistemas Modulares y Scalable Cloud:** Diseño de arquitecturas desacopladas y despliegue en microservicios (Railway/Docker).
 * **Procesamiento de Señales:** Integración de hardware y software (activación por voz/acústica).
 
 ---
